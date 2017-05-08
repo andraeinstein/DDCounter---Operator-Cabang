@@ -1,0 +1,155 @@
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\bin\Debug\DDCounter.exe
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\bin\Debug\DDCounter.pdb
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\bin\Debug\DDCounter.xml
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\obj\x86\Debug\DDCounter.Form1.resources
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\obj\x86\Debug\DDCounter.Resources.resources
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\obj\x86\Debug\DDCounter.exe
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\obj\x86\Debug\DDCounter.xml
+C:\Documents and Settings\Ahtefe DD\Local Settings\Application Data\Temporary Projects\DDCounter\obj\x86\Debug\DDCounter.pdb
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\setting.ini
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\DDCounter.exe.config
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\DDCounter.exe.manifest
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\DDCounter.application
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\DDCounter.exe
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\DDCounter.pdb
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\DDCounter.xml
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\fsButton.dll
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\GlassButtonVB.dll
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\MACButton.dll
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\MBGlassButton.dll
+F:\Project Andra\DDCounter\DDCounter\bin\Debug\MySql.Data.dll
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmbayar.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmbeli.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmdepo.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmexit.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmgagal.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frminfo.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmkartu.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmlagi.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmlihatpulsa.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmlogin.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmsukses.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.frmMenu.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.Resources.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.SetDb.resources
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.TrustInfo.xml
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.exe.manifest
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.application
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.exe
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.xml
+F:\Project Andra\DDCounter\DDCounter\obj\x86\Debug\DDCounter.pdb
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\setting.ini
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\DDCounter.exe.config
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\DDCounter.exe.manifest
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\DDCounter.application
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\DDCounter.exe
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\DDCounter.pdb
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\DDCounter.xml
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\fsButton.dll
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\GlassButtonVB.dll
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\MACButton.dll
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\MBGlassButton.dll
+F:\Project Andra\DDCounter 2\DDCounter\bin\Debug\MySql.Data.dll
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmbayar.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmbeli.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmdepo.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmexit.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmgagal.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frminfo.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmkartu.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmlagi.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmlihatpulsa.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmlogin.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmsukses.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.frmMenu.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.Resources.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.SetDb.resources
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.TrustInfo.xml
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.exe.manifest
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.application
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.exe
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.xml
+F:\Project Andra\DDCounter 2\DDCounter\obj\x86\Debug\DDCounter.pdb
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\setting.ini
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\DDCounter.exe.config
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\DDCounter.exe.manifest
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\DDCounter.application
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\DDCounter.exe
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\DDCounter.pdb
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\DDCounter.xml
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\fsButton.dll
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\GlassButtonVB.dll
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\MACButton.dll
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\MBGlassButton.dll
+F:\Project Andra\DDCounter + Operator\DDCounter\bin\Debug\MySql.Data.dll
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmbayar.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmbeli.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmdepo.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmexit.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmgagal.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frminfo.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmkartu.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmlagi.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmlihatpulsa.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmlogin.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmsukses.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.frmMenu.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.Resources.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.SetDb.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.struk.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.strukdepo.resources
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.TrustInfo.xml
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.exe.manifest
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.application
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.exe
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.xml
+F:\Project Andra\DDCounter + Operator\DDCounter\obj\x86\Debug\DDCounter.pdb
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\setting.ini
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\DDCounter.exe.config
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\DDCounter.exe.manifest
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\DDCounter.application
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\DDCounter.exe
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\DDCounter.pdb
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\DDCounter.xml
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\fsButton.dll
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\GlassButtonVB.dll
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\MACButton.dll
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\MBGlassButton.dll
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\bin\Debug\MySql.Data.dll
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmbayar.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmbeli.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmdepo.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmexit.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmgagal.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frminfo.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmkartu.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmlagi.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmlihatpulsa.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmlogin.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmsukses.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.frmMenu.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.Resources.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.SetDb.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.struk.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.strukdepo.resources
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.TrustInfo.xml
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.exe.manifest
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.application
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.exe
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.xml
+F:\Project Andra\DDCounter + Operator Cabang\DDCounter\obj\x86\Debug\DDCounter.pdb

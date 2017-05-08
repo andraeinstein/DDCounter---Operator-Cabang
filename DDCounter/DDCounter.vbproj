@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E1DDE729-1174-4186-94D0-5DEE355D3F9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DDCounter.My.MyApplication</StartupObject>
+    <RootNamespace>DDCounter</RootNamespace>
+    <AssemblyName>DDCounter</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\Andra%27s App\Final\DDCounter + Operator %28Cabang%29\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>id-ID</TargetCulture>
+    <ProductName>Counter Refill System</ProductName>
+    <PublisherName>DDTronik Refill System</PublisherName>
+    <ApplicationRevision>13</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DDCounter.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DDCounter.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Bokehlicia-Captiva-Virtualbox.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>79D38AE4BB8F7B9E351AB445187B765D3D87E7F3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>DDCounter_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="fsButton">
+      <HintPath>..\..\Kumpulan Theme VB.Net\Kumpulan Theme VB.Net\ThemeVBProjectV2.0\fsButton.dll</HintPath>
+    </Reference>
+    <Reference Include="GlassButtonVB">
+      <HintPath>..\..\Kumpulan Theme VB.Net\Kumpulan Theme VB.Net\ThemeVBProjectV2.0\GlassButtonVB.dll</HintPath>
+    </Reference>
+    <Reference Include="MACButton">
+      <HintPath>..\..\Kumpulan Theme VB.Net\Kumpulan Theme VB.Net\ThemeVBProjectV2.0\MACButton.dll</HintPath>
+    </Reference>
+    <Reference Include="MBGlassButton">
+      <HintPath>..\..\Kumpulan Theme VB.Net\Kumpulan Theme VB.Net\ThemeVBProjectV2.0\MBGlassButton.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\MySQL\MySQL Connector Net 5.2.5\Binaries\.NET 2.0\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Class1.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class3.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class4.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.designer.vb">
+      <DependentUpon>DataSet1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmbayar.Designer.vb">
+      <DependentUpon>frmbayar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmbayar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbeli.Designer.vb">
+      <DependentUpon>frmbeli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmbeli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdepo.designer.vb">
+      <DependentUpon>frmdepo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdepo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmexit.Designer.vb">
+      <DependentUpon>frmexit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmexit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmgagal.Designer.vb">
+      <DependentUpon>frmgagal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmgagal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frminfo.Designer.vb">
+      <DependentUpon>frminfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frminfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkartu.Designer.vb">
+      <DependentUpon>frmkartu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmkartu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlagi.Designer.vb">
+      <DependentUpon>frmlagi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlagi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlihatpulsa.Designer.vb">
+      <DependentUpon>frmlihatpulsa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlihatpulsa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsukses.Designer.vb">
+      <DependentUpon>frmsukses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsukses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inifile.vb" />
+    <Compile Include="KeyboardJammer.vb" />
+    <Compile Include="Menu Utama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Utama.Designer.vb">
+      <DependentUpon>Menu Utama.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SetDb.Designer.vb">
+      <DependentUpon>SetDb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SetDb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="struk.designer.vb">
+      <DependentUpon>struk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="struk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="strukdepo.designer.vb">
+      <DependentUpon>strukdepo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="strukdepo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbayar.resx">
+      <DependentUpon>frmbayar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbeli.resx">
+      <DependentUpon>frmbeli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdepo.resx">
+      <DependentUpon>frmdepo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmexit.resx">
+      <DependentUpon>frmexit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmgagal.resx">
+      <DependentUpon>frmgagal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frminfo.resx">
+      <DependentUpon>frminfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkartu.resx">
+      <DependentUpon>frmkartu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlagi.resx">
+      <DependentUpon>frmlagi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlihatpulsa.resx">
+      <DependentUpon>frmlihatpulsa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsukses.resx">
+      <DependentUpon>frmsukses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Utama.resx">
+      <DependentUpon>Menu Utama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetDb.resx">
+      <DependentUpon>SetDb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="struk.resx">
+      <DependentUpon>struk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="strukdepo.resx">
+      <DependentUpon>strukdepo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet11.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DDCounter_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="setting.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Budget-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buy-now-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-demo-orange.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indosat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1719a761587fd6ad865831e489ae21d38f46dfa7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Telkomsel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kartu GSM three.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lowongan kerja telkom flexi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-smartfren.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo esia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO PLN.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\starone_big.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ceria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-hepi_magenta1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bokehlicia-Captiva-Virtualbox.ico" />
+    <None Include="Resources\paket-blackberry-xl.jpg" />
+    <None Include="Resources\Cara-Mengaktifkan-Paket-Internet-HotRod-3G+-Triple-Kuota-XL.jpg" />
+    <None Include="Resources\blackwhite1.jpg" />
+    <None Include="Resources\blackwhite.jpg" />
+    <None Include="Resources\blackwhite.png" />
+    <None Include="Resources\aXIS.jpg" />
+    <None Include="Resources\notification_warning.png" />
+    <None Include="Resources\notification_done.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="MySql.Data">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
